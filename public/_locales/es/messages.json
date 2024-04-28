@@ -1,0 +1,20 @@
+{
+  "tituloPopup": {
+    "message": "Buscá documentos en Docer"
+  },
+  "tituloInstrucciones": {
+    "message": "Instrucciones"
+  },
+  "textoInstrucciones": {
+    "message": "Simplemente entrá a la página de Docer y navegá hasta el documento que querés descargar. Una vez ahí, realizá la verificación captcha para iniciar la descarga automáticamente."
+  },
+  "autor": {
+    "message": "Autor: aleshy"
+  },
+  "enlaceProyecto": {
+    "message": "GitHub"
+  },
+  "textoUltimaVersion": {
+    "message": "Última versión"
+  }
+}  

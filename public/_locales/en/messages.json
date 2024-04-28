@@ -1,0 +1,20 @@
+{
+  "tituloPopup": {
+    "message": "Find documents on Docer"
+  },
+  "tituloInstrucciones": {
+    "message": "Instructions"
+  },
+  "textoInstrucciones": {
+    "message": "Just go to the Docer web and navigate to the document you want to download. Once there, complete the captcha verification to start the download automatically."
+  },
+  "autor": {
+    "message": "Author: aleshy"
+  },
+  "enlaceProyecto": {
+    "message": "GitHub"
+  },
+  "textoUltimaVersion": {
+    "message": "Latest release"
+  }
+}
